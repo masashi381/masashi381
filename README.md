@@ -1,6 +1,10 @@
 ###### 🌱 I’m currently learning ... HTML, CSS, JavaScript
 ###### 😄 Pronouns: ... he/him
 ###### I need more practice!!!!!!!!
+###### I am currently learning
+
+
+
 <!--
 **masashi381/masashi381** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
