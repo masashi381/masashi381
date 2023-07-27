@@ -4,7 +4,7 @@
 ###### I am currently learning
 
 <img src="https://github.com/masashi381/masashi381/assets/121969638/ef4dcc5f-e21c-4d1d-9f39-3255f5b3453b" width="100px" height="100px">
-<img src="https://github.com/masashi381/masashi381/assets/121969638/ef7f1a70-f095-480c-a630-52bfdff38a69" width="100px" height="100px">
+<img src="https://github.com/masashi381/masashi381/assets/121969638/ef7f1a70-f095-480c-a630-52bfdff38a69" width="150px" height="150px">
 <img src="https://github.com/masashi381/masashi381/assets/121969638/2cbccdbc-8fed-4fd0-a303-7bfc9e38f583" width="100px" height="100px">
 <img src="https://github.com/masashi381/masashi381/assets/121969638/fa07e111-6ae8-44b5-933d-c54064b9fb00" width="100px" height="100px">
 <img src="https://github.com/masashi381/masashi381/assets/121969638/0d8dde6d-00b8-4e28-9c60-55493b27e747" width="100px" height="100px">
