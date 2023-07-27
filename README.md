@@ -2,9 +2,7 @@
 ###### 😄 Pronouns: ... he/him
 ###### I need more practice!!!!!!!!
 ###### I am currently learning
-![download (2)](https://github.com/masashi381/masashi381/assets/121969638/57f35819-ff37-42ff-91d4-564b92308d2d)
-![download (3)](https://github.com/masashi381/masashi381/assets/121969638/40e36c6f-0c20-497f-ae8a-f8d1a9e502b4)
-![download (4)](https://github.com/masashi381/masashi381/assets/121969638/9aa5b982-396a-4282-9437-003102cd55fa)
+
 <img src="https://github.com/masashi381/masashi381/assets/121969638/ef4dcc5f-e21c-4d1d-9f39-3255f5b3453b" width="100px" height="100px">
 <img src="https://github.com/masashi381/masashi381/assets/121969638/ef7f1a70-f095-480c-a630-52bfdff38a69" width="100px" height="100px">
 <img src="https://github.com/masashi381/masashi381/assets/121969638/2cbccdbc-8fed-4fd0-a303-7bfc9e38f583" width="100px" height="100px">
