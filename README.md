@@ -1,4 +1,4 @@
-###### 🌱 I’m currently learning ... HTML, CSS, JavaScript
+###### 🌱 I’m currently learning ... HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js
 ###### 😄 Pronouns: ... he/him
 ###### I need more practice!!!!!!!!
 ###### I am currently learning
