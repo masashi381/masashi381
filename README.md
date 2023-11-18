@@ -3,6 +3,10 @@
 ###### I need more practice!!!!!!!!
 ###### I am currently learning
 
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masashi381"/>
+  <img alt="GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=masashi381"/>
+</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masashi381
 )](https://github.com/anuraghazra/github-readme-stats)
 
