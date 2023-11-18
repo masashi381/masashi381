@@ -3,8 +3,9 @@
 ###### I need more practice!!!!!!!!
 ###### I am currently learning
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/masashi381
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={https://github.com/masashi381}
 )](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://github.com/masashi381/masashi381/assets/121969638/ef4dcc5f-e21c-4d1d-9f39-3255f5b3453b" width="100px" height="100px">
 <img src="https://github.com/masashi381/masashi381/assets/121969638/ef7f1a70-f095-480c-a630-52bfdff38a69" width="120px" height="120px">
