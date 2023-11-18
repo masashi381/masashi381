@@ -8,6 +8,8 @@
   <img alt="GitHub stats"  height="150px" src="https://github-readme-stats.vercel.app/api?username=masashi381"/>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=masashi381&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <img src="https://github.com/masashi381/masashi381/assets/121969638/ef4dcc5f-e21c-4d1d-9f39-3255f5b3453b" width="100px" height="100px">
 <img src="https://github.com/masashi381/masashi381/assets/121969638/ef7f1a70-f095-480c-a630-52bfdff38a69" width="120px" height="120px">
 <img src="https://github.com/masashi381/masashi381/assets/121969638/fa07e111-6ae8-44b5-933d-c54064b9fb00" width="100px" height="100px">
