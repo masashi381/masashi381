@@ -2,6 +2,8 @@
 <p>I am <strong> Masashi Sawada</strong></p>
 <p>I am currently learning Next.js, Node.js, TypeScript</p>
 <p>I am interested in React native, Figma, Tailwind CSS...etc</p>
+<p>contact me</p>
+<img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=plastic">
 <p align="left">
   <img alt="Top Langs" width="200px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masashi381"/>
   <img alt="GitHub stats"  height="150px" src="https://github-readme-stats.vercel.app/api?username=masashi381"/>
