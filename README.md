@@ -31,7 +31,7 @@
 </div>
 
 <img alt="GitHub stats"  height="200px" src="https://github-readme-stats.vercel.app/api?username=masashi381"/>
-<img alt="Top Langs" width="200px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masashi381"/>
+<img alt="Top Langs" width=" 300px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masashi381"/>
 
 
 
