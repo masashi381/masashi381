@@ -11,10 +11,8 @@
   <h3>contact me</h3>
   <a href="https://www.linkedin.com/in/masashi-sawada-731705265/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=plastic"></a>
 </div>
-<div>
-  
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=masashi381&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 
 <h3>Languages I have learnt</h3>
 <div align="left">
@@ -35,8 +33,10 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50px" height="50px" alt="Visual Studio Code">
 </div>
 
-<img alt="GitHub stats"  height="200px" src="https://github-readme-stats.vercel.app/api?username=masashi381"/>
-<img alt="Top Langs" width=" 300px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masashi381"/>
+<div>
+  <img alt="GitHub stats"  height="200px" src="https://github-readme-stats.vercel.app/api?username=masashi381"/>
+  <img alt="Top Langs" width=" 300px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masashi381"/>
+</div>
 
 
 
