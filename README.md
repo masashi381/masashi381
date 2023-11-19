@@ -1,17 +1,20 @@
 
-<p>I am <strong> Masashi Sawada</strong></p>
+<h2>I am <strong> Masashi Sawada</strong></h2>
 <p>I am currently learning Next.js, Node.js, TypeScript</p>
 <p>I am interested in React native, Figma, Tailwind CSS...etc</p>
-<p>my portfolio</p>
-<a href="https://portfolio-react-zwbc.vercel.app/"><img src="https://img.shields.io/badge/-my%20portfolio-00A98F.svg?logo=about.me&style=popout"></a>
+<div>
+  <h3>my portfolio</h3>
+  <a href="https://portfolio-react-zwbc.vercel.app/"><img src="https://img.shields.io/badge/-my%20portfolio-00A98F.svg?logo=about.me&style=popout"></a> 
+</div>
 
-<p>contact me</p>
-<a href="https://www.linkedin.com/in/masashi-sawada-731705265/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=plastic"></a>
-
+<div>
+  <h3>contact me</h3>
+  <a href="https://www.linkedin.com/in/masashi-sawada-731705265/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=plastic"></a>
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=masashi381&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<P>Languages I have learnt</P>
+<h3>Languages I have learnt</h3>
 <div align="left">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="50px" height="50px" alt="HTML">
   <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="50px" height="50px" alt="CSS">
