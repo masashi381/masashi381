@@ -31,6 +31,8 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50px" height="50px" alt="Git">
   <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="50px" height="50px" alt="GitHub">
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="50px" height="50px" alt="Visual Studio Code">
+  <img src="![image](https://github.com/user-attachments/assets/b28bd5fe-2b1d-4395-b084-9009f80cb504)" witdth="50px" height="50px" alt="Java">
+
 </div>
 
 <div>
