@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/masashi-sawada-731705265/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?logo=linkedin&style=plastic"></a>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=masashi381&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <h3>Languages I have learnt</h3>
 <div align="left">
