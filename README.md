@@ -4,7 +4,7 @@
 <p>I am interested in React native, Figma, Tailwind CSS...etc</p>
 <div>
   <h3>my portfolio</h3>
-  <a href="https://portfolio-react-zwbc.vercel.app/"><img src="https://img.shields.io/badge/-my%20portfolio-00A98F.svg?logo=about.me&style=popout"></a> 
+  <a href="[https://portfolio-react-zwbc.vercel.app/](https://my-portfolio-lac-nu-47.vercel.app/en)"><img src="https://img.shields.io/badge/-my%20portfolio-00A98F.svg?logo=about.me&style=popout"></a> 
 </div>
 
 <div>
